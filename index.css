@@ -26,3 +26,11 @@ button {
     padding: 10px 20px;
     border: none;
 }
+
+ul {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 4px 10px;
+    border: 1px solid red;
+    
+}

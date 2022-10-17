@@ -30,7 +30,15 @@ button {
 ul {
     width: 100%;
     box-sizing: border-box;
-    padding: 4px 10px;
-    border: 1px solid red;
-    
+    padding: 4px 0px;
+    /* border: 1px solid red; */
+}
+
+li {
+    list-style: none;
+    margin-top: 5px;
+}
+
+a {
+    color: #5f9341;
 }

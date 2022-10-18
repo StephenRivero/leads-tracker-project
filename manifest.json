@@ -2,6 +2,7 @@
     "manifest_version": 3,
     "version": "1.0",
     "name": "Leads tracker",
+    "description": "A Leads Tracker Chrome Extension to keep track about important webpages and web links.",
     "permissions": [
         "tabs"
       ],
